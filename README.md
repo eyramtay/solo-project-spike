@@ -1,3 +1,11 @@
+# Getting Started with Material-UI
+
+This project was designed with Material-UI. 
+
+Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
