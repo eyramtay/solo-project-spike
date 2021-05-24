@@ -22,3 +22,11 @@ h2 {
 .inputDirection {
   text-align: center;
 }
+
+form {
+  padding: 20px;
+}
+
+input {
+  width: 30%;
+}
