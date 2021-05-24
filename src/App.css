@@ -2,7 +2,22 @@ h1 {
   text-align: center;
 }
 
-ul {
+.navBar {
+  margin: 0;
+  padding: 0;
+  
+  display: block;
+  
+  text-align: center;
+}
+
+.navList li {
+  list-style-type: none;
+  float: right;
+  padding: 14px 16px;
+}
+
+/* ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -13,7 +28,7 @@ li {
   float: right;
   text-align: center;
   padding: 14px 16px;
-}
+} */
 
 h2 {
   margin: 35px;
