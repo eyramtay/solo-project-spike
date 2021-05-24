@@ -12,11 +12,16 @@ function App() {
           <li><button>Add Restaurant</button></li>
           <li><button>Home</button></li>
         </ul>
-      </div>
+      </div><br /><br /><br /><br />
 
     <div>
-      
-    </div>  
+      <h2>Welcome, Test-Username!</h2>
+    </div>
+    <div className="inputDirection">
+      <p>What are you craving?</p>
+      <p>Add a restaurant of your choice here:</p>
+    </div><br />
+    
 
     </div>
   );
